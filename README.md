@@ -100,6 +100,12 @@
 
 ###
 
+<div data-importer="image" align="center">
+  <img data-importer="image" height="534" src="https://github-readme-leetcode-stats-red.vercel.app/api/card?theme=default-dark"  />
+</div>
+
+###
+
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thepratik4/thepratik4/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thepratik4/thepratik4/pacman-output/pacman-contribution-graph.svg?game=pacman">
