@@ -26,25 +26,6 @@ I am a dedicated Full-Stack Software Engineer with a strong passion for craftsma
 
 ---
 
-### 📦 Featured Repositories
-
-<div align="left">
-<a href="https://github.com/thepratik4/ganraj-management-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thepratik4&repo=ganraj-management-system&theme=radical&hide_border=false" alt="ganraj-management-system" />
-</a>
-<a href="https://github.com/thepratik4/pratik-modern-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thepratik4&repo=pratik-modern-portfolio&theme=radical&hide_border=false" alt="pratik-modern-portfolio" />
-</a>
-<a href="https://github.com/thepratik4/precision-website-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thepratik4&repo=precision-website-1&theme=radical&hide_border=false" alt="precision-website-1" />
-</a>
-<a href="https://github.com/thepratik4/thepratik4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thepratik4&repo=thepratik4&theme=radical&hide_border=false" alt="thepratik4" />
-</a>
-</div>
-
----
-
 ### 📊 GitHub Analytics
 
 <p align="left">
@@ -53,19 +34,8 @@ I am a dedicated Full-Stack Software Engineer with a strong passion for craftsma
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thepratik4&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=thepratik4&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
-
-<!-- GitHub Contribution Snake Animation -->
-<p align="left">
-  <img src="https://raw.githubusercontent.com/thepratik4/thepratik4/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</p>
-
----
-
-### 🌐 Open Source Work
-
-- **[ganraj-management-system](https://github.com/thepratik4/ganraj-management-system)** (Maintainer): Modern open-source software project with clean architecture and documented APIs.
 
 ---
 
@@ -85,6 +55,6 @@ I am a dedicated Full-Stack Software Engineer with a strong passion for craftsma
 
 <p align="left">
   <a href="https://leetcode.com/pratikbagul/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/pratikbagul?theme=dark&font=source_code_pro&ext=heatmap" alt="pratikbagul's LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/pratikbagul?theme=radical&font=source_code_pro&ext=heatmap" alt="pratikbagul's LeetCode Stats" />
   </a>
 </p>
