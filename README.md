@@ -5,11 +5,14 @@
 ###
 
 <div data-importer="socials" align="center">
-  <a href="pratikthebagul@gmail.com" target="_blank">
+  <a href="mailto:pratikthebagul@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/pratik-bagul-2230a9256/" target="_blank">
+  <a href="https://x.com/_pratik_bagul/" target="_blank" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+     <a href="https://leetcode.com/u/pratikbagul/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42" height="40" alt="LeetCode logo" />
   </a>
   <a href="https://www.linkedin.com/in/pratik-bagul-2230a9256/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
